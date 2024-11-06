@@ -1,6 +1,5 @@
 # cohere_reran_RAG_practice
 
-```markdown
 # LangChain with Cohere and FAISS for Question Answering
 
 This example demonstrates how to build a question-answering system using LangChain, Cohere, and FAISS. It leverages Cohere's large language models for embeddings and reranking, and FAISS for efficient vector search.
